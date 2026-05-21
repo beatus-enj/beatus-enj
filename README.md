@@ -21,6 +21,4 @@ Here are some ideas to get you started:
 > - 💬 Ask me about :**Python, proxy, prompt injection defense**
 > - 📫 How to reach me: **applesophia9@gmail.com**
 > - ⚡ Fun fact: I chose the name **Beatus** because I want my code to bring peace, not chaos.
->## Github Stats
-> [![beatus-enj's GitHub stats](https://github-readme-stats.vercel.app/api?username=beatus-enj&show_icons=true&theme=merko)](https://github.com/beatus-enj)
-> [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=beatus-enj&layout=compact&theme=merko)](https://github.com/beatus-enj)
+
