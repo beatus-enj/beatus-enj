@@ -19,6 +19,6 @@ Here are some ideas to get you started:
 > - 🔭 I’m currently working on **LLM security & Agent gateway** & Python tools
 > -  🌱 I’m currently learning **systems programming, AI safety and Agent gateway**
 > - 💬 Ask me about :**Python, proxy, prompt injection defense**
-> - 📫 How to reach me: **applesophia9@gmail.com**
+> - 📫 How to reach me: **ppx156329@gmail.com**
 > - ⚡ Fun fact: I chose the name **Beatus** because I want my code to bring peace, not chaos.
 
